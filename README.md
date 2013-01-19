@@ -1,7 +1,7 @@
 TaskPaper2Reminders
 ===================
 
-An AppleScript Serrvice to take the currently selected line in TaskPaper and turn it into a reminder in Reminders.
+An AppleScript script to take the currently selected line in TaskPaper and turn it into a reminder in Reminders.
 
 It can accept a wide range of dates including 24 hour time, the date can use either a ‘-‘ or a ‘/‘ as 
 separator, the time and date can be in either order and if you leave either out then a 
@@ -21,4 +21,4 @@ Examples:
 - “Remind me @due 29-1-2013" # script sets to 9:00 AM
 - “Remind me @due 10:00PM” # script sets to today
 
-
+Put it in your Scripts folder.
